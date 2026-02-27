@@ -11,7 +11,6 @@ I love turning complex problems into simple, elegant solutions.
 
 - 🔭 I’m currently working on **Pacific Equities** - intern
 - 🌱 I’m currently learning **Front-end Development**
-- 💬 Ask me about **JavaScript, React, Node.js**
 - 📫 How to reach me: **torresypther@gmail.com**
 
 ## 🛠️ Tech Stack
