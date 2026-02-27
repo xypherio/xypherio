@@ -62,7 +62,7 @@ A water quality monitoring project using IoT and Machine Learning for past, pres
 - 📄 Export Reports
 - ⚠️ Smart Alerts System
 
-### Pacific Equities Intern Project
+### Pacific Equities - Everyshelf
 [![Pacific Equities](https://github-readme-stats.vercel.app/api/pin/?username=xypherio&repo=pacific-equities-project&theme=tokyonight)](https://github.com/xypherio/pacific-equities-project)
 
 **Tech Stack:**  
