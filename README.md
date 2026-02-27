@@ -44,14 +44,6 @@ I love turning complex problems into simple, elegant solutions.
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xypherio&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xypherio&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xypherio&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
 ## 🏆 Featured Projects
 
 ### Pureflow
@@ -75,10 +67,10 @@ A water quality monitoring project using IoT and Machine Learning for past, pres
 [![Pacific Equities](https://github-readme-stats.vercel.app/api/pin/?username=xypherio&repo=pacific-equities-project&theme=tokyonight)](https://github.com/xypherio/pacific-equities-project)
 
 **Tech Stack:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React-Native](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ## 🎯 Current Focus
 
@@ -96,15 +88,6 @@ A water quality monitoring project using IoT and Machine Learning for past, pres
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://yourportfolio.vercel.app](https://xypherio-portfolio-ymix.vercel.app/))
 
 </div>
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xypherio/xypherio/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xypherio/xypherio/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xypherio/xypherio/output/github-contribution-grid-snake.svg">
-</picture>
-
 ---
 
 <div align="center">
