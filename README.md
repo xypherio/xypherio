@@ -9,7 +9,6 @@
 I'm a passionate software developer with expertise in building scalable web applications. 
 I love turning complex problems into simple, elegant solutions.
 
-- 🔭 I’m currently working on **Pacific Equities** - intern
 - 🌱 I’m currently learning **Front-end Development**
 - 📫 How to reach me: **torresypther@gmail.com**
 
@@ -61,15 +60,6 @@ A water quality monitoring project using IoT and Machine Learning for past, pres
 - 📱 Water Quality Report
 - 📄 Export Reports
 - ⚠️ Smart Alerts System
-
-### Pacific Equities - Everyshelf
-[![Pacific Equities](https://github-readme-stats.vercel.app/api/pin/?username=xypherio&repo=pacific-equities-project&theme=tokyonight)](https://github.com/xypherio/pacific-equities-project)
-
-**Tech Stack:**  
-![React-Native](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ## 🎯 Current Focus
 
