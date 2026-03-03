@@ -54,8 +54,7 @@ I'm a front-end developer passionate about crafting beautiful, responsive interf
 
 ## 🏆 Featured Projects
 
-### Pureflow
-[![Pureflow](https://github-readme-stats.vercel.app/api/pin/?username=xypherio&repo=pureflow-mobile-app&theme=tokyonight)](https://github.com/xypherio/pureflow-mobile-app.git)
+### PureFlow
 
 **Tech Stack:**  
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
