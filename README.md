@@ -26,6 +26,10 @@ I'm a front-end developer passionate about crafting beautiful, responsive interf
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/-TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
 ### Front-End — Mobile
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -42,6 +46,7 @@ I'm a front-end developer passionate about crafting beautiful, responsive interf
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/-Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -49,6 +54,8 @@ I'm a front-end developer passionate about crafting beautiful, responsive interf
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
 ---
 
@@ -72,6 +79,30 @@ A water quality monitoring system combining IoT hardware and a React Native fron
 - 📄 Export Reports
 - ⚠️ Smart Alerts System
 - 🔌 ESP32-based Sensor Integration
+
+---
+
+### CRMC AIMS
+
+**Tech Stack:**  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/-Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![TanStack Query](https://img.shields.io/badge/-TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+
+A multi-tenant Asset & Inventory Management System for Cebu Roosevelt Memorial Colleges, built for campus property custodianship.
+
+- 🏷️ QR-tagged capital asset tracking with borrow and long-term custody
+- 📦 Consumable inventory with costed purchase lots and stock movements
+- ✅ Approval queues for asset borrows and supply requisitions
+- 🧾 Purchase orders, suppliers, disbursement vouchers, and petty cash
+- 🏗️ Project tracking with expenses and materials checkout
+- 🔧 Maintenance, custody logs, reports, and superadmin tenant onboarding
 
 ---
 
