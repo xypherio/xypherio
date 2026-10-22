@@ -61,28 +61,7 @@ I'm a front-end developer passionate about crafting beautiful, responsive interf
 
 ## 🏆 Featured Projects
 
-### PureFlow
-
-**Tech Stack:**  
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-A water quality monitoring system combining IoT hardware and a React Native front-end for real-time and predictive fishpond monitoring.
-
-- 📊 Realtime Dashboard
-- 🔮 Predictive Analysis
-- 📱 Water Quality Reports
-- 📄 Export Reports
-- ⚠️ Smart Alerts System
-- 🔌 ESP32-based Sensor Integration
-
----
-
-### CRMC AIMS
+### AIMS
 
 **Tech Stack:**  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -103,6 +82,37 @@ A multi-tenant Asset & Inventory Management System for Cebu Roosevelt Memorial C
 - 🧾 Purchase orders, suppliers, disbursement vouchers, and petty cash
 - 🏗️ Project tracking with expenses and materials checkout
 - 🔧 Maintenance, custody logs, reports, and superadmin tenant onboarding
+
+---
+
+### EveryShelf
+
+An inventory tracking system with purchase order management and activity logs, built during my internship.
+
+- 📦 Inventory tracking
+- 🧾 Purchase order (PO) management
+- 📜 Activity logs
+
+---
+
+### PureFlow
+
+**Tech Stack:**  
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+A water quality monitoring system combining IoT hardware and a React Native front-end for real-time and predictive fishpond monitoring.
+
+- 📊 Realtime Dashboard
+- 🔮 Predictive Analysis
+- 📱 Water Quality Reports
+- 📄 Export Reports
+- ⚠️ Smart Alerts System
+- 🔌 ESP32-based Sensor Integration
 
 ---
 
