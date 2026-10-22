@@ -74,7 +74,7 @@ I'm a front-end developer passionate about crafting beautiful, responsive interf
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
-A multi-tenant Asset & Inventory Management System for Cebu Roosevelt Memorial Colleges, built for campus property custodianship.
+A multi-tenant Asset & Inventory Management System built for institutional property custodianship.
 
 - 🏷️ QR-tagged capital asset tracking with borrow and long-term custody
 - 📦 Consumable inventory with costed purchase lots and stock movements
